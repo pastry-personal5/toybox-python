@@ -1,0 +1,3 @@
+print('eggs')
+
+a = 'eggs'
